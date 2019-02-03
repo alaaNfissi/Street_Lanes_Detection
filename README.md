@@ -1,5 +1,5 @@
 # Street_Lanes_Detection
-## You should have this result :
+## You should get this result :
 ![alt text](https://github.com/alaaNfissi/Street_Lanes_Detection/blob/master/result.PNG?raw=true)
 
 ### You can download the video from this link :
